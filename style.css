@@ -155,8 +155,14 @@ h3.heading {
 /*--- Clients Section---*/
 
 .clients img {
-  width: 50%;
+  width: 75%;
   border-radius: 50%;
+  
+}
+.equipments img {
+  width: 75%;
+  border-radius: 70%;
+
 }
 
 blockquote .svg-inline--fa {
