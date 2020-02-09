@@ -93,6 +93,11 @@ font-size: 1.1rem;
   background-color: #1ebba3;
   border-color: #1ebba3;
 }
+#particles-js{
+  height: 100%;
+  background: #87ceeb;
+}
+
 .btn-secondary:hover {
 
   background-color: #189582;
@@ -104,7 +109,7 @@ font-size: 1.1rem;
 
 .jumbotron {
   margin-bottom: 0;
-  padding: 2rem 0 3.5rem; 
+  padding: 0rem 0 3.5rem; 
   border-radius: 0;
 }
 h3.heading {
