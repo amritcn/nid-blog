@@ -327,3 +327,54 @@ Extra (xl) large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }
 
 =============*/
+.contact-title  {
+  margin-top: 100px;
+  align-content: center;
+  text-align: center;
+  text-transform: uppercase;
+  transition: all 4s ease-in-out;
+}
+
+.contact-form  {
+    text-align: center;
+}
+.contact-title h1{
+font-size: 32px;
+line-height: 10px;
+}
+
+.contact-title h3{
+  font-size: 16px;
+}
+form{
+  margin-top: 50px;
+  transition: all 4s ease-in-out; 
+}
+.form-control {
+  width: 600px;
+  background: transparent;
+  text-align: center;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid gray;
+  color: rgb(129, 129, 129);
+  margin-bottom: 16px;
+}
+input{
+  height: 45px;
+}
+form .submit {
+  background: #ff572f;
+  border-color: transparent;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  height: 50px;
+  margin-top: 20px;
+}
+form .submit:hover{
+  background-color: #f44336;
+  cursor: pointer;
+
+}
