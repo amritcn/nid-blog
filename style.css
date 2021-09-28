@@ -6,6 +6,10 @@ body{
     color:#505962;
 }
 
+.asignment_description{
+    text-align: center;
+}
+
 .offset:before{
   display: block;
   content: "";
